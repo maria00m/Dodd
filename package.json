@@ -1,0 +1,12 @@
+{
+  "name": "davood-support-page",
+  "version": "1.0.0",
+  "description": "A supportive page for Davood",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
